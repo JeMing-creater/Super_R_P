@@ -1,0 +1,12 @@
+tqdm
+timm
+torch
+monai
+pandas
+pyyaml
+pillow
+easydict
+objprint
+matplotlib 
+opencv-python
+accelerate==0.18.0
